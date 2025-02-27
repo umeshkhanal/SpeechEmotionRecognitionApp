@@ -42,14 +42,6 @@ streamlit run app.py
 3. **CNN model predicts the emotion**  
 4. **Results are displayed with a probability chart**  
 
-## Screenshots  
-(Add screenshots or GIFs of your app UI and results here)
-
-## Contributing  
-Feel free to open an issue or submit a pull request if you'd like to contribute!  
-
-## License  
-This project is licensed under the MIT License.  
 
 ---  
 ### Developed by Umesh Khanal  
